@@ -8,8 +8,8 @@ User interface scripting relies upon the OS X accessibility frameworks that prov
 
 
 #### Note : Before run this script you need to allow the Java Script apple events in Safari’s develop menu and have your twitch opened.
-
-<img src="https://pp.userapi.com/c855228/v855228453/4bb67/PYZqQkjhd6s.jpg" width="637" height="861">
+![alt text](https://pp.userapi.com/c855228/v855228453/4bb9c/P_L5hlAq8UE.jpg)
+![alt text](https://pp.userapi.com/c855228/v855228453/4bba4/fheOLEe6oDU.jpg)
 ### Then:
 
 run "twitch_script.app" and allow "control other applications to run". After that you can watch/change channels and it will still work (in this current tab)
