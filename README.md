@@ -10,5 +10,5 @@ User interface scripting relies upon the OS X accessibility frameworks that prov
 
 ### Then:
 
-run it and allow "control other applications to run"
+run "twitch_script.app" and allow "control other applications to run"
 ![alt text](https://pp.userapi.com/c850128/v850128393/14afc6/JVnrl0Ig4GY.jpg)
