@@ -6,9 +6,9 @@ Safari BetterTTV emotes support written in AppleScript <img src="https://pp.user
 
 User interface scripting relies upon the OS X accessibility frameworks that provide alternative methods of querying and controlling the interfaces of apps and the system. By default, accessibility control of apps is disabled. For security and privacy reasons, the user must manually enable it on an app-by-app (including script apps) basis.
 
-#### Note : Before run this script you need to allow the Java Script apple events in Safari’s develop menu and have your twitch channel opened.
+#### Note : Before run this script you need to allow the Java Script apple events in Safari’s develop menu and have your twitch opened.
 
 ### Then:
 
-run "twitch_script.app" and allow "control other applications to run"
+run "twitch_script.app" and allow "control other applications to run". After that you can watch/change channels and it will still work (in this current tab)
 ![alt text](https://pp.userapi.com/c850128/v850128393/14afc6/JVnrl0Ig4GY.jpg)
