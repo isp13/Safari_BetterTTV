@@ -1,6 +1,7 @@
 # Safari_BetterTTV
 Safari BetterTTV emotes support written in AppleScript
-![alt text =32x32](https://pp.userapi.com/c850128/v850128393/14afcd/57G2RozQG8E.jpg)
+![](https://pp.userapi.com/c850128/v850128393/14afcd/57G2RozQG8E.jp =250x250)
+
 ## Getting Started
 
 ### Safari
